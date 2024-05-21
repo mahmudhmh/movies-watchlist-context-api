@@ -1,4 +1,4 @@
-# Movie Watchlist with React Hooks, Context API, and LocalStorage**
+# Movie Watchlist with React Hooks, Context API, and LocalStorage
 
 This project is a simple Movie Watchlist application built using React Hooks, Context API for state management, and LocalStorage for persisting data. Users can add movies to their watchlist, mark them as watched, and remove them from the list.
 
